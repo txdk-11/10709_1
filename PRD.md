@@ -1,6 +1,6 @@
 ---
 
-## 💡 제품 요구사항 정의서 (Product Requirements Document, PRD)
+##  제품 요구사항 정의서 (Product Requirements Document, PRD)
 
 ### 1. 개요 (Introduction)
 
